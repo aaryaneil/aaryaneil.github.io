@@ -10,9 +10,7 @@
     "location": { "address": "", "postalCode": "98075", "city": "Seattle", "countryCode": "USA", "region": "Washington" },
     "profiles": [
       { "network": "github", "username": "aaryaneil", "url": "http://github.com/aaryaneil" },
-      { "network": "linkedin", "username": "aaryaneil", "url": "http://linkedin.com/in/aaryaneil" },
-      { "network": "twitter", "username": "aaryaneil", "url": "http://twitter.com/aaryaneil" },
-      { "network": "instagram", "username": "aaryaneil", "url": "http://instagram.com/aaryaneil" }
+      { "network": "linkedin", "username": "aaryaneil", "url": "http://linkedin.com/in/aaryaneil" }
     ]
   },
   "interests": [
