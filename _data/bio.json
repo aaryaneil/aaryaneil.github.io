@@ -9,16 +9,16 @@
     "summary": "I am studying for a M.S. in Artificial Intelligence at Indiana Wesleyan University. I expect to graduate in Fall, 2026. I currently hold a M.S. in Software Engineering from San Jose State University.",
     "location": { "address": "", "postalCode": "98075", "city": "Seattle", "countryCode": "USA", "region": "Washington" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/aaryaneil" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/aaryaneil" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/aaryaneil" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/aaryaneil" }
+      { "network": "github", "username": "aaryaneil", "url": "http://github.com/aaryaneil" },
+      { "network": "linkedin", "username": "aaryaneil", "url": "http://linkedin.com/in/aaryaneil" },
+      { "network": "twitter", "username": "aaryaneil", "url": "http://twitter.com/aaryaneil" },
+      { "network": "instagram", "username": "aaryaneil", "url": "http://instagram.com/aaryaneil" }
     ]
   },
   "interests": [
     { "name": "Artificial Intelligence" },
     { "name": "Cloud Computing" },
-    { "name": "Neuromorphic Computing" },
+    { "name": "Neurotechnology" },
     { "name": "Robotics" },
   ],
   "skills": [
@@ -29,6 +29,26 @@
     {
       "name": "Toolsets/OS",
       "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "CentOS", "RHEL", "Windows" ]
+    },
+    {
+      "name": "Web/Backend",
+      "keywords": [ "React", "Node.js", "Express", "Flask", "REST", "Spring Boot" ]
+    },
+    {
+      "name": "Cloud",
+      "keywords": [ "AWS (EC2, S3, RDS, Lambda)", "Azure", "GCP" ]
+    },
+    {
+      "name": "DevOps",
+      "keywords": [ "Docker", "Kubernetes", "Terraform", "Jenkins", "GitHub Actions", "Ansible" ]
+    },
+    {
+      "name": "Database",
+      "keywords": [ "MySQL", "PostgreSQL", "MongoDB", "DynamoDB", "Aurora" ]
+    },
+    {
+      "name": "Tools",
+      "keywords": [ "Postman", "JUnit", "Selenium", "Linux" ]
     }
   ],
   "education": [
@@ -42,7 +62,7 @@
       ]
     },
     {
-      "institution": "University of Hawaii, San Jose, CA",
+      "institution": "San Jose State University",
       "area": "Software Engineering (Specialization in Cloud Computing)",
       "studyType": "M.S.",
       "startDate": "2021-08-19",
@@ -51,7 +71,7 @@
       ]
     },
     {
-      "institution": "University of Pune, Pune, India",
+      "institution": "University of Pune",
       "area": "Computer Science Engineering",
       "studyType": "B.E.",
       "startDate": "2016-08-01",
@@ -67,7 +87,6 @@
       "website": "",
       "startDate": "2024-03-01",
       "endDate": "2025-02-12",
-      "summary": "Head of online presence for Ka Leo",
       "highlights": [
         "Automated infrastructure tasks across GitHub, Dropbox, and Slack with Node.js SDKs, saving 50+ hours/month.",
         "Assisted in migrating Linux servers from Azure to Bluehost, reducing costs by 25%.",
@@ -81,23 +100,8 @@
       "position": "Rotary Rotaract Relationship Ofiicer",
       "startDate": "2018-08-01",
       "endDate": "2019-08-01",
-      "summary": "Lead developer for weather sensing project",
       "highlights": [
-        "Partnered with Rotaract District 3131 clubs to drive registrations for 'The Talk' professional development event and helped organize the District Conference attended by 300–400 Rotaractors.",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Partnered with Rotaract District 3131 clubs to drive registrations for 'The Talk' professional development event and helped organize the District Conference attended by 300–400 Rotaractors."
       ]
     }
   ],
