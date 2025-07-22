@@ -1,84 +1,89 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Aaryaneil Nimbalkar",
     "label": "Student",
     "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "email": "aaryaneil.nimbalkar@gmail.com",
+    "phone": "669-288-3144",
+    "website": "https://aaryaneil.github.io",
+    "summary": "I am studying for a M.S. in Artificial Intelligence at Indiana Wesleyan University. I expect to graduate in Fall, 2026. I currently hold a M.S. in Software Engineering from San Jose State University.",
+    "location": { "address": "", "postalCode": "98075", "city": "Seattle", "countryCode": "USA", "region": "Washington" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "mmaluhia", "url": "http://github.com/aaryaneil" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/aaryaneil" },
+      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/aaryaneil" },
+      { "network": "instagram", "username": "molly", "url": "http://instagram.com/aaryaneil" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
+    { "name": "Artificial Intelligence" },
+    { "name": "Cloud Computing" },
     { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
     { "name": "Robotics" },
-    { "name": "3D Graphics" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [  "Python", "Java", "Javascript", "Assembly", "C++" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "CentOS", "RHEL", "Windows" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Indiana Wesleyan University",
+      "area": "Computer Information System",
+      "studyType": "M.S.",
+      "startDate": "2025-05-05",
       "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii, San Jose, CA",
+      "area": "Software Engineering (Specialization in Cloud Computing)",
+      "studyType": "M.S.",
+      "startDate": "2021-08-19",
+      "endDate": "2023-12-15",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Pune, Pune, India",
+      "area": "Computer Science Engineering",
+      "studyType": "B.E.",
+      "startDate": "2016-08-01",
+      "endDate": "2020-11-01",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "One Community Global",
+      "position": "Software Engineer",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
+      "startDate": "2024-03-01",
+      "endDate": "2025-02-12",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Automated infrastructure tasks across GitHub, Dropbox, and Slack with Node.js SDKs, saving 50+ hours/month.",
+        "Assisted in migrating Linux servers from Azure to Bluehost, reducing costs by 25%.",
+        "Built RESTful web application components with React and Node.js, cutting page load time by 40%."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
+      "organization": "Rotaract Club of Pune Royal",
+      "position": "Rotary Rotaract Relationship Ofiicer",
+      "startDate": "2018-08-01",
+      "endDate": "2019-08-01",
       "summary": "Lead developer for weather sensing project",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
+        "Partnered with Rotaract District 3131 clubs to drive registrations for 'The Talk' professional development event and helped organize the District Conference attended by 300–400 Rotaractors.",
         "Maintain custom data collection and storage infrastructure"
       ]
     },
@@ -94,20 +99,6 @@
         "Member, IEEE Student Branch, 2014-Present",
         "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
