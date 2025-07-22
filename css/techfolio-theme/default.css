@@ -43,7 +43,7 @@ a {
   }
 }
 
-/* Simplify the styling of the bottom of Essay cards. */
+/* Simplify the styling of the bottom of Blog cards. */
 .card-footer {
   background-color: var(--bs-white);
   border-top: none;
