@@ -32,19 +32,7 @@ The infographic provides a high-level, visually engaging overview of the major e
 
 The following is the full text of the accompanying article, designed for a blog or website.
 
-> ```markdown
-> ---
-> layout: blog
-> type: blog
-> title: "AI Timeline"
-> # All dates must be YYYY-MM-DD format!
-> date: 2025-07-12
-> published: true
-> labels:
->   - Artificial Intelligence
->   - Learning
-> ---
-> ```
+
 
 > # **Timeline of Artificial Intelligence**
 
